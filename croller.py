@@ -31,4 +31,4 @@ for i in range(1, 10):
         print("주소: ", title_tag['href'])
         # article_response = requests.get(ARTICLE_BASE_URL + title_tag['href'], headers=headers)
 
-
+print('this is linux')
